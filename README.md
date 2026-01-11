@@ -1,7 +1,7 @@
 # Expense Tracker App
 
 ## Live Demo
-https://your-netlify-link.netlify.app
+[https://syntecxhub-expense-tracker.netlify.app/]
 
 A simple React Expense Tracker project built using:
 - React Hooks: useState, useEffect, useRef, useMemo, useCallback
