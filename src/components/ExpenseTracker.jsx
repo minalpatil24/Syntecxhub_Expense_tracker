@@ -3,7 +3,7 @@ import ExpenseForm from "./ExpenseForm";
 import ExpenseList from "./ExpenseList";
 import BalanceSummary from "./BalanceSummary";
 
-const API_URL = "https://6963d3cb2d146d9f58d47db5.mockapi.io/expenses";
+const API_URL = "https://6964b30ee8ce952ce1f293c2.mockapi.io/expenses";
 
 function ExpenseTracker() {
   const [expenses, setExpenses] = useState([]);
